@@ -8,8 +8,21 @@ def lcm_naive(a, b):
 
     return a*b
 
+
+def gcd(a,b):
+    if b==0:
+        return a
+    else:
+        return gcd(b,a%b)
+
+
+def lcm_opt(a,b):
+    return int(abs(a*b)/gcd(a,b))
+
+
 if __name__ == '__main__':
-    input = sys.stdin.read()
+    input = input()
     a, b = map(int, input.split())
-    print(lcm_naive(a, b))
+    #print(lcm_naive(a, b))
+    print(lcm_opt(a, b))
 

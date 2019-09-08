@@ -13,7 +13,23 @@ def get_fibonacci_huge_naive(n, m):
 
     return current % m
 
+
+def fibonacci_huge(n,m):
+    f="0 1 1 "
+    if (n <= 1): return n
+    if (n == 2): return 1
+
+    start=end=1
+    while f.count("0 1 1 ")<=1:
+        fib=start+end
+        start=end
+        end=fib
+        f+=str(fib%m)+" "
+    fibmods=f.split()
+    return fibmods[n%(len(fibmods)-3)]
+
 if __name__ == '__main__':
-    input = sys.stdin.read();
+    input = input()
     n, m = map(int, input.split())
-    print(get_fibonacci_huge_naive(n, m))
+    #print(get_fibonacci_huge_naive(n, m))
+    print(fibonacci_huge(n, m))
