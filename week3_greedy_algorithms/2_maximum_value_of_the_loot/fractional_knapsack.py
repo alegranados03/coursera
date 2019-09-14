@@ -2,25 +2,33 @@
 import sys
 
 
+def takesecond(elem):
+    return elem[1]
+
+
 def get_optimal_value(capacity, weights, values):
     a = value = 0
-    unit_vals = [x / y for x,y in zip(values,weights)]
+    vals = [x/y for x, y in zip(values, weights)]
 
-    for _ in range(len(weights)):
-        i = weights.index(min(weights))
+    unit_vals=[]
+    for i,val in enumerate(vals):
+        unit_vals.append((i,val))
 
-        if (capacity == 0): return value
-        a = min(weights[i],capacity)
+    unit_vals = sorted(unit_vals,reverse=True,key=takesecond)
+
+    for x in unit_vals:
+        i = x[0]
+        if capacity == 0:
+            return value
+        a = min(weights[i], capacity)
         capacity = capacity - a
-        value += a * unit_vals[i]
+        value += a * x[1]
 
-        weights.pop(i)
-        unit_vals.pop(i)
     return value
 
 
 if __name__ == "__main__":
-    data = list(map(int, input().split()))
+    data = list(map(int, sys.stdin.read().split()))
     n, capacity = data[0:2]
     values = data[2:(2 * n + 2):2]
     weights = data[3:(2 * n + 2):2]
