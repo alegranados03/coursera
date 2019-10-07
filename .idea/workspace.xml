@@ -7,12 +7,18 @@
   <component name="ChangeListManager">
     <list default="true" id="18a9af90-5e79-4968-a448-bb4d7c6a47ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.py" beforeDir="false" afterPath="$PROJECT_DIR$/week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/3_car_fueling/car_fueling.py" beforeDir="false" afterPath="$PROJECT_DIR$/week3_greedy_algorithms/3_car_fueling/car_fueling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/4_maximum_advertisement_revenue/dot_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/week3_greedy_algorithms/4_maximum_advertisement_revenue/dot_product.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/5_collecting_signatures/covering_segments.py" beforeDir="false" afterPath="$PROJECT_DIR$/week3_greedy_algorithms/5_collecting_signatures/covering_segments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/6_maximum_number_of_prizes/different_summands.py" beforeDir="false" afterPath="$PROJECT_DIR$/week3_greedy_algorithms/6_maximum_number_of_prizes/different_summands.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week3_greedy_algorithms/7_maximum_salary/largest_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/week3_greedy_algorithms/7_maximum_salary/largest_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/1_binary_search/binary_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4_divide_and_conquer/1_binary_search/binary_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/2_majority_element/majority_element.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4_divide_and_conquer/2_majority_element/majority_element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/3_improving_quicksort/sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4_divide_and_conquer/3_improving_quicksort/sorting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4_divide_and_conquer/4_number_of_inversions/inversions.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4_divide_and_conquer/4_number_of_inversions/inversions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/1_money_change_again/change_dp.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5_dynamic_programming1/1_money_change_again/change_dp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/3_edit_distance/edit_distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5_dynamic_programming1/3_edit_distance/edit_distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.py" beforeDir="false" afterPath="$PROJECT_DIR$/week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6_dynamic_programming2/2_partitioning_souvenirs/partition3.py" beforeDir="false" afterPath="$PROJECT_DIR$/week6_dynamic_programming2/2_partitioning_souvenirs/partition3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/placing_parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/placing_parentheses.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,10 +29,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week3_greedy_algorithms/7_maximum_salary/largest_number.py">
+        <entry file="file://$PROJECT_DIR$/week6_dynamic_programming2/2_partitioning_souvenirs/partition3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="119">
+              <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding>
+                <element signature="e#15#25#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,12 +63,23 @@
         <option value="$PROJECT_DIR$/week3_greedy_algorithms/6_maximum_number_of_prizes/different_summands.py" />
         <option value="$PROJECT_DIR$/week3_greedy_algorithms/5_collecting_signatures/covering_segments.py" />
         <option value="$PROJECT_DIR$/week3_greedy_algorithms/7_maximum_salary/largest_number.py" />
+        <option value="$PROJECT_DIR$/week4_divide_and_conquer/2_majority_element/majority_element.py" />
+        <option value="$PROJECT_DIR$/week4_divide_and_conquer/3_improving_quicksort/sorting.py" />
+        <option value="$PROJECT_DIR$/week4_divide_and_conquer/1_binary_search/binary_search.py" />
+        <option value="$PROJECT_DIR$/week4_divide_and_conquer/4_number_of_inversions/inversions.py" />
+        <option value="$PROJECT_DIR$/week5_dynamic_programming1/1_money_change_again/change_dp.py" />
+        <option value="$PROJECT_DIR$/week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.py" />
+        <option value="$PROJECT_DIR$/week5_dynamic_programming1/3_edit_distance/edit_distance.py" />
+        <option value="$PROJECT_DIR$/week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.py" />
+        <option value="$PROJECT_DIR$/week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.py" />
+        <option value="$PROJECT_DIR$/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/placing_parentheses.py" />
+        <option value="$PROJECT_DIR$/week6_dynamic_programming2/2_partitioning_souvenirs/partition3.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="291" />
-    <option name="y" value="56" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="125" />
+    <option name="y" value="-19" />
     <option name="width" value="1200" />
     <option name="height" value="646" />
   </component>
@@ -79,19 +99,13 @@
             <path>
               <item name="Coursera" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coursera" type="462c0819:PsiDirectoryNode" />
-              <item name="week3_greedy_algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="week6_dynamic_programming2" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Coursera" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coursera" type="462c0819:PsiDirectoryNode" />
-              <item name="week3_greedy_algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="5_collecting_signatures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Coursera" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coursera" type="462c0819:PsiDirectoryNode" />
-              <item name="week3_greedy_algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="7_maximum_salary" type="462c0819:PsiDirectoryNode" />
+              <item name="week6_dynamic_programming2" type="462c0819:PsiDirectoryNode" />
+              <item name="2_partitioning_souvenirs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -114,8 +128,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.largest_number">
-    <configuration name="car_fueling" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.partition3">
+    <configuration name="change_dp" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Coursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3_greedy_algorithms/3_car_fueling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week5_dynamic_programming1/1_money_change_again" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3_greedy_algorithms/3_car_fueling/car_fueling.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week5_dynamic_programming1/1_money_change_again/change_dp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="covering_segments" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="knapsack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Coursera" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -144,74 +158,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3_greedy_algorithms/5_collecting_signatures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week6_dynamic_programming2/1_maximum_amount_of_gold" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3_greedy_algorithms/5_collecting_signatures/covering_segments.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="different_summands" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Coursera" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3_greedy_algorithms/6_maximum_number_of_prizes" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3_greedy_algorithms/6_maximum_number_of_prizes/different_summands.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dot_product" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Coursera" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3_greedy_algorithms/4_maximum_advertisement_revenue" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3_greedy_algorithms/4_maximum_advertisement_revenue/dot_product.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="largest_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Coursera" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3_greedy_algorithms/7_maximum_salary" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3_greedy_algorithms/7_maximum_salary/largest_number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,13 +192,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="partition3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coursera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week6_dynamic_programming2/2_partitioning_souvenirs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week6_dynamic_programming2/2_partitioning_souvenirs/partition3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="placing_parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coursera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/placing_parentheses.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="primitive_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coursera" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week5_dynamic_programming1/2_primitive_calculator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.largest_number" />
-        <item itemvalue="Python.covering_segments" />
-        <item itemvalue="Python.different_summands" />
-        <item itemvalue="Python.dot_product" />
-        <item itemvalue="Python.car_fueling" />
+        <item itemvalue="Python.partition3" />
+        <item itemvalue="Python.placing_parentheses" />
+        <item itemvalue="Python.knapsack" />
+        <item itemvalue="Python.primitive_calculator" />
+        <item itemvalue="Python.change_dp" />
       </list>
     </recent_temporary>
   </component>
@@ -272,20 +286,28 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48795182" visible="true" weight="0.17030849" />
-      <window_info id="Structure" order="1" sideWeight="0.5120482" side_tool="true" visible="true" weight="0.17030849" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47644684" visible="true" weight="0.1895887" />
+      <window_info id="Structure" order="1" sideWeight="0.5235532" side_tool="true" visible="true" weight="0.1895887" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49678662" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49678662" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39973083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32974428" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32974428" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50321335" side_tool="true" weight="0.32974428" />
@@ -418,9 +440,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week5_dynamic_programming1/3_edit_distance/edit_distance.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/week3_greedy_algorithms/2_maximum_value_of_the_loot/fractional_knapsack.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
@@ -458,8 +477,103 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week3_greedy_algorithms/7_maximum_salary/largest_number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="374">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4_divide_and_conquer/3_improving_quicksort/sorting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="40" column="31" selection-start-line="40" selection-start-column="31" selection-end-line="40" selection-end-column="31" />
+          <folding>
+            <element signature="e#15#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4_divide_and_conquer/1_binary_search/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4_divide_and_conquer/1_binary_search/binary_search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4_divide_and_conquer/4_number_of_inversions/inversions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week4_divide_and_conquer/2_majority_element/majority_element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+          <folding>
+            <element signature="e#15#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5_dynamic_programming1/1_money_change_again/change_dp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5_dynamic_programming1/5_longest_common_subsequence_of_three_sequences/lcs3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5_dynamic_programming1/2_primitive_calculator/primitive_calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="50" column="20" selection-start-line="50" selection-start-column="20" selection-end-line="50" selection-end-column="20" />
+          <folding>
+            <element signature="e#15#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week5_dynamic_programming1/3_edit_distance/edit_distance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="e#15#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week6_dynamic_programming2/3_maximum_value_of_an_arithmetic_expression/placing_parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week6_dynamic_programming2/1_maximum_amount_of_gold/knapsack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week6_dynamic_programming2/2_partitioning_souvenirs/partition3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#15#25#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -19,6 +19,6 @@ if __name__ == '__main__':
     input = sys.stdin.read()
     data = input.split()
     a = data[1:]
-    b = data[1:]
-    print("".join(largest_number(a)))
+    print("".join(largest_number(a.copy())))
+
 

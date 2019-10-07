@@ -3,15 +3,12 @@ import sys
 import itertools
 
 def partition3(A):
-    for c in itertools.product(range(3), repeat=len(A)):
-        sums = [None] * 3
-        for i in range(3):
-            sums[i] = sum(A[k] for k in range(len(A)) if c[k] == i)
+    total = sum(A)
+    if len(A) < 3 or total%3!=0: return 0
+    splits = total//3
 
-        if sums[0] == sums[1] and sums[1] == sums[2]:
-            return 1
+    print(A)
 
-    return 0
 
 if __name__ == '__main__':
     input = sys.stdin.read()

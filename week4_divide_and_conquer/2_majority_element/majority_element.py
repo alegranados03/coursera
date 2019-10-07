@@ -1,13 +1,17 @@
 # Uses python3
 import sys
-
+import math
 def get_majority_element(a, left, right):
-    if left == right:
-        return -1
-    if left + 1 == right:
-        return a[left]
-    #write your code here
-    return -1
+    a.sort()
+    x = count = 0
+    for num in a:
+        if x != num:
+            if count > math.floor(right/2): return 1
+            x = num
+            count = 1
+        else:
+            count += 1
+    return 1 if count > math.floor(right/2) else -1
 
 if __name__ == '__main__':
     input = sys.stdin.read()
